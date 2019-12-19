@@ -1,0 +1,73 @@
+{
+    "name": "Totango",
+    "description": "Totango's customer success software aligns your company around your customers to drive adoption, reduce churn, increase retention and expansion.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1368-totango.jpg",
+    "tags": [
+        "applications",
+        "have api",
+        "knowledgebase"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/totango\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Totango",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1368-totango.jpg",
+            "humanURL": "http:\/\/dev.totango.com\/api-specification\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/totango-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/dev.totango.com\/api-specification\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.totango.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.totango.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/totango"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/totango"
+        },
+        {
+            "type": "Email",
+            "url": "hi@totango.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@totango.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@totango.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/totango"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/totango"
+        }
+    ]
+}
